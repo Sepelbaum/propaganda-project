@@ -130,3 +130,4 @@ dmypy.json
 
 # txt
 sentence-data/sentence_txt_data/
+*.csv
