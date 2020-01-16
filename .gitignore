@@ -134,3 +134,4 @@ sentence-data/sentence_txt_data/
 
 #biased database files
 sentence-data/bias_data
+sentence-data/biased.word.train
