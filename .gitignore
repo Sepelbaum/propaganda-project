@@ -131,3 +131,6 @@ dmypy.json
 # txt
 sentence-data/sentence_txt_data/
 *.csv
+
+#biased database files
+sentence-data/bias_data
