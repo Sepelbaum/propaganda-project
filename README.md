@@ -1,7 +1,7 @@
 # Propaganda Classification
 
 ## Background on Existing Propaganda Classifiers
-Most existing classifiers are modeled on data where text is labeled on the article level, and where an article is labeled as propaganda based only on what news outlet the article orginates from. This is dissatisfying because all news sources produce some propaganda and some non-propaganda. I fear datasets that classify propaganda on the news source level are missing the real linguistic markers of propaganda that surpass political party boundaries.
+Most existing classifiers are modeled on data where text is labeled on the article level, and where an article is labeled as propaganda based only on the news outlet the article orginates from. This is dissatisfying because all news sources produce some propaganda and some non-propaganda. I fear datasets that classify propaganda on the news source level are missing the real linguistic markers of propaganda that surpass political party boundaries.
 
 ## My Goal
 Create a propaganda classifier that can pick up on linguistic features of propaganda irrespective of the political bent or leaning of the source. 
